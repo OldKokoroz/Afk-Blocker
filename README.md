@@ -1,8 +1,8 @@
 # Afk-Blocker
 
-## for importing problems. try to use different interpreter
+### for importing problems. try to use different interpreter
 
-### Clone :
+## Clone :
 
     git clone https://github.com/OldKokoroz/Afk-Blocker.git
 
@@ -12,10 +12,10 @@
     pip install -r requirements.txt
 
     
-2 - You can run main.py, It will install requirements automatically
+or You can run main.py, It will install requirements automatically
 
 
-### Usage :
+## Usage :
 
 By default it is set to run 10 min (You can change that)
     and set to press (W, A, S, D)
