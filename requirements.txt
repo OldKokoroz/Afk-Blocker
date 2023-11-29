@@ -1,0 +1,6 @@
+keyboard
+pyautogui
+termcolor
+stdin
+PIPE
+Popen
