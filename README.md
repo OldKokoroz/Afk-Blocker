@@ -7,17 +7,18 @@
     git clone https://github.com/OldKokoroz/Afk-Blocker.git
 
 
-1 - You can install requirements by manually :
+You can install requirement by manually :
 
-    pip install -r requirements.txt
+    pip install pyautogui
 
+or :
     
-or You can run main.py, It will install requirements automatically
+You can run main.py, It will do everything for you.
 
 
 ## Usage :
 
-By default it is set to run 10 min (You can change that)
+By default it is set to run 10 min (It will ask you to change)
     and set to press (W, A, S, D)
 
 
